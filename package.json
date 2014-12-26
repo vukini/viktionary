@@ -1,0 +1,24 @@
+{
+  "name": "viktionary",
+  "version": "0.0.1",
+  "description": "a fun dictionary",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vukini/viktionary.git"
+  },
+  "keywords": [
+    "dictionary",
+    "languages",
+    "pictionary"
+  ],
+  "author": "Vidyuth Kini",
+  "license": "GNU GPL v3.0",
+  "bugs": {
+    "url": "https://github.com/vukini/viktionary/issues"
+  },
+  "homepage": "https://github.com/vukini/viktionary"
+}
